@@ -2,8 +2,8 @@
 NSO Movie Converter
 
 :: Changelog:
-:: - Added Changelog & Future Update in batch file. - V8 Beta
-:: - Removed Dependencies (Major Program Update) - V8 Beta
+- Added Changelog & Future Update in batch file. - V8 Beta
+- - Removed Dependencies (Major Program Update) - V8 Beta
 
 :: - Add Support to Change Voices. - V8 Final
 :: - Add Chimes/Sounds/Voices. - V8 Final
