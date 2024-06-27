@@ -62,10 +62,6 @@
     <li>Added Line Break for Programming Sectioning.</li>
     <li>Add Blocking File Support for Future Uses.</li>
     <li>UI Placement and UX Improvements.</li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
   </ul>
 </details>
 
