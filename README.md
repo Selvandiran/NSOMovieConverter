@@ -1,4 +1,4 @@
-# NSO Movie Converter 
+# NSO Movie Converter - By: Selvandiran Marimuthu
 
 ### [OPEN SOURCE LICENSE]
 <p> I hereby grant anyone to freely use this program for personal purposes. If you're using it on platforms like YouTube or Twitch for entertainment purpose (streaming/vtubing), please include my name and link to this git to credit me for my hard work. You can then proceed to have a coffee/tea/water to support me, no need to send me any money...yet. Using this application for commercial purposes is not allowed without prior written permission. This application is dependent on other software such as FFmpeg and Blink. Their licensing term has not been included and will not be a part of this program's license.</p>
