@@ -56,8 +56,8 @@
   <ul>
     <li>Add Support for Automatic Removal if Filename/Extension Doesn't Match (Trash).</li>
     <li>Add Support for Filename Checker for Watch Folders (Filename Compliance).</li>
+    <li>Optimized Program by Rebuilding from Scratch(Super Major Program Update).</li>
     <li>Friendlier Variable Names & Optimized Variable Use.</li>
-    <li>Optimized Program (Super Major Program Update).</li>
     <li>Add Support for Adobe Media Encoder Autostart.</li>
     <li>Added Line Break for Programming Sectioning.</li>
     <li>Add Blocking File Support for Future Uses.</li>
